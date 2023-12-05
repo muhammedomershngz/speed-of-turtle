@@ -1,1 +1,1 @@
-# speed-of-turtle
+# hızlı_ve-kabuklu
